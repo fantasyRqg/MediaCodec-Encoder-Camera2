@@ -1,0 +1,1 @@
+# MediaCodec-Encoder-Camera2
